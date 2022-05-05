@@ -1,6 +1,6 @@
 # Mini React 
 
-this project contains only app.js and indexe.js accompanied by [react-router-dom v6](https://reactrouterdotcom.fly.dev/) and [material-ui](https://mui.com/material-ui/getting-started/installation/)
+this project contains only app.js and index.js accompanied by [react-router-dom v6](https://reactrouterdotcom.fly.dev/) and [material-ui](https://mui.com/material-ui/getting-started/installation/)
 
 before starting project in please re-install npm : `npm install / npm i`
 
